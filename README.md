@@ -7,6 +7,7 @@ I'm , a passionate learner in the world of IT. Welcome to my GitHub profile! �
 - C# 🎯
 - Python 🐍
 - .NET Core ⚙️
+- Ghidra and Reverse engineering ⚙️
 
 ## 🤝 I’m Looking to Collaborate On
 
